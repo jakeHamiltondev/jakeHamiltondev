@@ -54,7 +54,7 @@ This project was specifically designed to showcase security best practices relev
 ✔ Architectural design patterns (MVVM, zero-knowledge)
 ✔ Version control with GitHub
 
-**Repository:** [View on GitHub](https://github.com/YOUR_USERNAME/SecureNotesApp)
+**Repository:** [View on GitHub](https://github.com/jakeHamiltondev/SecureNotesApp)
 
 ---
 
@@ -136,6 +136,7 @@ Three team members and I rapidly designed and built a working mobile web applica
 ✔ Real deployment using Vercel
 ✔ Live product pitching
 
+**Repository:** [View on GitHub](https://github.com/jakeHamiltondev/portfolio_card)
 ---
 
 ## 4️⃣ Data Cleaning & Process Improvement (Internship Project)
@@ -185,7 +186,7 @@ I delivered a presentation to the Executive Leadership Team summarizing:
 
 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/jacobghamilton/)
 **Email:** [My Email](jh0695@gmail.com)
-**GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**GitHub:** [github.com/YOUR_USERNAME](https://github.com/jakeHamiltondev)
 
 ---
 
